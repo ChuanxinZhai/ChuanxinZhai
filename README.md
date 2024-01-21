@@ -16,7 +16,7 @@ I love
 
 I'm interested in technical-related fields, such as computer science, artificial intelligence, data analysis, e-business and new energy vehicles etc.
 
-I plan to start my career path as a product manager.
+I plan to start my career path as a product manager(PM).
 
 ### Technology stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
