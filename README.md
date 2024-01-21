@@ -41,5 +41,6 @@ ChessonZhai@foxmail.com
 [![Instagram](https://img.shields.io/badge/Instagram-%40chessonzhai-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/chessonzhai/)
 [![Xiaohongshu](https://img.shields.io/badge/小红书-杂食老翟-FF4500?style=flat-square&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5d1ef4940000000010039a38)
 [![Zhihu](https://img.shields.io/badge/知乎-杂食老翟-0084FF?style=flat-square)](https://www.zhihu.com/people/za-shi-lao-di)
+[![CSDN](https://img.shields.io/badge/-CSDN-red?style=flat-square&logo=blog&logoColor=white)](https://blog.csdn.net/yourusername)
 
 
