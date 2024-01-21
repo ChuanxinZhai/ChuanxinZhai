@@ -12,3 +12,4 @@ ChessonZhai@foxmail.com
 [![Zhihu](https://img.shields.io/badge/知乎-杂食老翟-0084FF?style=flat-square)](https://www.zhihu.com/people/za-shi-lao-di)
 
 
+[![Xiaohongshu](https://pic1.zhimg.com/v2-d1dbce454c5e549d7ad29246ecbfa7b5_720w.jpg?source=172ae18b)](https://www.xiaohongshu.com/user/profile/5d1ef4940000000010039a38) Xiaohongshu
