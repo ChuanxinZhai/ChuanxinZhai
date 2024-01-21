@@ -3,7 +3,17 @@ Welcome to my Github. This is Chesson Zhai, you can call me Chesson.
 
 ### For me
 Now, I'm a MSc student in the University of Warwick.
+
+I love ![Guitar](https://img.shields.io/badge/-Guitar-FFD700?style=flat-square&logo=guitar&logoColor=white)
+![Basketball](https://img.shields.io/badge/-Basketball-orange?style=flat-square&logo=basketball&logoColor=white)
+![Badminton](https://img.shields.io/badge/-Badminton-00BFFF?style=flat-square&logo=badminton&logoColor=white)
+![Gaming](https://img.shields.io/badge/-Gaming-9C27B0?style=flat-square&logo=gamepad&logoColor=white)
+![Photography](https://img.shields.io/badge/-Photography-4B0082?style=flat-square&logo=camera&logoColor=white)
+![Travel](https://img.shields.io/badge/-Travel-008000?style=flat-square&logo=airplane&logoColor=white)
+
+
 I'm interested in technical related fields, such as computer science, artificial intelligence, data analytics, e-business and new energy vehicles etc.
+
 I plan to start my career path as a product manager.
 
 ### Technology stack
