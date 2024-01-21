@@ -3,6 +3,7 @@ Welcome to my Github. This is Chesson Zhai, and you can call me Chesson.
 
 ### For me
 MSc: The University of Warwick, Warwick Manufacturing Group, e-Commerce and Digital Analytics for e-Business Management.
+
 Bsc: Xi'an Jiaotong Liverpool University, Schoold of Advanced Technology, Information and Computing Science.
 
 I love
