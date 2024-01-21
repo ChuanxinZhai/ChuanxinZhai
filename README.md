@@ -6,5 +6,5 @@ This is Chesson Zhai, a MSc student in the University of Warwick.
 [![Douyin](https://img.shields.io/badge/Douyin-杂食老翟-FF4500?style=flat-square&logo=tiktok)](https://www.douyin.com/user/Chesson.Zhai)
 [![Xiaohongshu](https://img.shields.io/badge/小红书-杂食老翟-FF4500?style=flat-square&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/ChessonZhai)
 [![Zhihu](https://img.shields.io/badge/知乎-杂食老翟-0084FF?style=flat-square)](https://www.zhihu.com/people/za-shi-lao-di)
-[![WeChat](https://img.shields.io/badge/WeChat-杂食老翟的奇思妙想-07C160?style=flat-square&logo=wechat)](https://mp.weixin.qq.com/gh_7b26b2d182fc)
+[![WeChat](https://img.shields.io/badge/WeChat-杂食老翟的奇思妙想-07C160?style=flat-square&logo=wechat)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxMTMwNDQzOA==&scene=124#wechat_redirect)
 
