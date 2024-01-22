@@ -1,5 +1,5 @@
-# Hi everyone 👋
-Welcome to my GitHub. This is Chesson Zhai, and you can call me Chesson. 
+# Hello everyone! 👋
+Welcome to my GitHub! This is Chesson Zhai, and you can call me Chesson. 
 
 ### For me
 MSc: The University of Warwick, Warwick Manufacturing Group, e-Commerce and Digital Analytics for e-Business Management.
