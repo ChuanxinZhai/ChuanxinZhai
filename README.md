@@ -29,17 +29,6 @@ I plan to start my career path as a product manager (PM).
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 
-
-
-
-
-
-
-
-
-
-
-
 ### Contact me
 ChessonZhai@foxmail.com
 
