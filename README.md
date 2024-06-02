@@ -31,7 +31,7 @@ I plan to start my career path as a product manager (PM).
 Including the corresponding frameworks and IDEs, such as VS Code, Unity, Bootstrap, etc.
 
 ### Contact me
-ChessonZhai@foxmail.com
+ChessonZhai@foxmail.com (will reply in 24 hours)
 
 ### Follow my social media:
 share my daily life
