@@ -14,7 +14,7 @@ I love
 ![Photography](https://img.shields.io/badge/-Photography-4B0082?style=flat-square&logo=camera&logoColor=white)
 ![Travel](https://img.shields.io/badge/-Travel-008000?style=flat-square&logo=airplane&logoColor=white)
 
-I'm interested in technical-related fields, such as computer science, artificial intelligence, data analysis, e-business and new energy vehicles etc.
+I'm interested in technical-related fields, such as computer science (CS), artificial intelligence (AI), data analysis (DA), e-business (eB), games and new energy vehicles (NEV) etc.
 
 I plan to start my career path as a product manager (PM).
 
