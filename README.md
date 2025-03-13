@@ -6,9 +6,11 @@ Now, fresh graduate, looking for a job as a product manager or data analyst.
 
 (2023.9-2025.1) MSc: The University of Warwick (UoW), Warwick Manufacturing Group (WMG), e-Commerce and Digital Analytics (ecda) of e-Business Management (eBM). 
 
-硕士：英国华威大学：华威制造集团（WMG）计算机科学与技术（电子商务数据分析方向）
+硕士：英国华威大学 华威制造集团（WMG）计算机科学与技术（电子商务数据分析方向）
 
 (2019.8-2023.7) BSc: Xi'an Jiaotong Liverpool University (XJTLU), School of Advanced Technology (SAT), Information and Computing Science (ICS).
+
+本科：西交利物浦大学 智能工程学院 信息与计算科学
 
 I love
 ![Music](https://img.shields.io/badge/-Music-FFD700?style=flat-square&logo=music&logoColor=white)
