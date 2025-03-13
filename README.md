@@ -4,9 +4,9 @@ Welcome to my GitHub! This is Chesson Zhai, and you can call me Chesson.
 ### For me
 Now, looking for a job.
 
-MSc: The University of Warwick (UoW), Warwick Manufacturing Group (WMG), e-Commerce and Digital Analytics (ecda) of e-Business Management (eBM).
+(2023.9-2025.1) MSc: The University of Warwick (UoW), Warwick Manufacturing Group (WMG), e-Commerce and Digital Analytics (ecda) of e-Business Management (eBM).
 
-BSc: Xi'an Jiaotong Liverpool University (XJTLU), School of Advanced Technology (SAT), Information and Computing Science (ICS).
+(2019.8-2023.7) BSc: Xi'an Jiaotong Liverpool University (XJTLU), School of Advanced Technology (SAT), Information and Computing Science (ICS).
 
 I love
 ![Music](https://img.shields.io/badge/-Music-FFD700?style=flat-square&logo=music&logoColor=white)
