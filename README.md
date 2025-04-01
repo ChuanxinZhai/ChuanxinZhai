@@ -40,16 +40,19 @@ Including the corresponding frameworks and IDEs, such as PyCharm, IDEA, VS Code,
 
 原型设计（Axure/Figma）；数据分析（Tableau/SQL/SPSS）；前端技术（HTML/CSS/js）；敏捷项目管理与开发；数据库（MySQL/Neo4j）；建模（Blender/Unity）；竞品分析，用户调研，PRD需求文档书写；领域知识（计算机/电商/数据）。
 
-### Contact me
+### Contact me 联系我：
 ChessonZhai@foxmail.com (will reply in 24 hours)
 
-### Follow my social media:
-share my daily life
+### Follow my social media 关注我:
+share daily life
 [![Bilibili](https://img.shields.io/badge/Bilibili-杂食老翟-00A1D6?style=flat-square&logo=bilibili)](https://space.bilibili.com/474510573)
 [![Douyin](https://img.shields.io/badge/Douyin-杂食老翟-FF4500?style=flat-square&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAA8SxbTCoahDB29M1MRL-1rOiPUAS96E49CSg3pHRUxd8)
 [![Instagram](https://img.shields.io/badge/Instagram-%40chessonzhai-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/chessonzhai/)
 [![Xiaohongshu](https://img.shields.io/badge/小红书-杂食老翟-FF4500?style=flat-square&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5d1ef4940000000010039a38)
+
+share technological articles
 [![Zhihu](https://img.shields.io/badge/知乎-杂食老翟-0084FF?style=flat-square)](https://www.zhihu.com/people/za-shi-lao-di)
 [![CSDN](https://img.shields.io/badge/CSDN-杂食老翟-red?style=flat-square&logo=blog&logoColor=white)](https://blog.csdn.net/ChuanxinZhai?spm=1010.2135.3001.5343)
+微信公众号：杂食老翟的奇思妙想
 
 
