@@ -1,7 +1,7 @@
 # Hello everyone! 👋
 Welcome to my GitHub! This is Chesson Zhai, and you can call me Chesson. 
 
-### For me
+### For me 关于我
 Now, fresh graduateyingji, looking for a job as a product manager or data analyst. 
 
 (2023.9-2025.1) MSc: The University of Warwick (UoW), Warwick Manufacturing Group (WMG), e-Commerce and Digital Analytics (ecda) of e-Business Management (eBM). 
@@ -17,23 +17,28 @@ I love
 ![Basketball](https://img.shields.io/badge/-Basketball-orange?style=flat-square&logo=sports&logoColor=white)
 ![Badminton](https://img.shields.io/badge/-Badminton-00BFFF?style=flat-square&logo=sports&logoColor=white)
 ![Gaming](https://img.shields.io/badge/-Games-9C27B0?style=flat-square&logo=gamepad&logoColor=white)
-![Photography](https://img.shields.io/badge/-Photography-4B0082?style=flat-square&logo=camera&logoColor=white)
 ![Travel](https://img.shields.io/badge/-Travel-008000?style=flat-square&logo=airplane&logoColor=white)
+爱好：篮球/羽毛球/音乐/游戏/旅游
 
-I'm interested in technical-related fields, such as computer science (CS), artificial intelligence (AI), data analysis (DA), e-business (eB), Games and new energy vehicles (NEV) etc.
+I'm interested in technical-related fields, such as computer science (CS), artificial intelligence (AI), data analysis (DA), e-business (eB), Games and Automobile etc. 
+计算机科学/人工智能/数据分析/电子商务/游戏/汽车 等领域
 
 
-### Technology stack
+
+### Technology stack 个人技能
+
+Computer programming 计算机编程：
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
 
 Including the corresponding frameworks and IDEs, such as PyCharm, IDEA, VS Code, Unity etc.
+
+
+原型设计（Axure/Figma）；数据分析（Tableau/SQL/SPSS）；前端技术（HTML/CSS/js）；敏捷项目管理与开发；数据库（MySQL/Neo4j）；建模（Blender/Unity）；竞品分析，用户调研，PRD需求文档书写；领域知识（计算机/电商/数据）。
 
 ### Contact me
 ChessonZhai@foxmail.com (will reply in 24 hours)
