@@ -2,7 +2,7 @@
 Welcome to my GitHub! This is Chesson Zhai, and you can call me Chesson. 
 
 ### For me
-Now, fresh graduate, looking for a job as a product manager or data analyst. 
+Now, fresh graduateyingji, looking for a job as a product manager or data analyst. 
 
 (2023.9-2025.1) MSc: The University of Warwick (UoW), Warwick Manufacturing Group (WMG), e-Commerce and Digital Analytics (ecda) of e-Business Management (eBM). 
 
@@ -10,7 +10,7 @@ Now, fresh graduate, looking for a job as a product manager or data analyst.
 
 (2019.8-2023.7) BSc: Xi'an Jiaotong Liverpool University (XJTLU), School of Advanced Technology (SAT), Information and Computing Science (ICS).
 
-本科：西交利物浦大学 智能工程学院 信息与计算科学
+本科：西交利物浦大学 智能工程学院 信息与计算科学 (计算机软件类)
 
 I love
 ![Music](https://img.shields.io/badge/-Music-FFD700?style=flat-square&logo=music&logoColor=white)
@@ -20,9 +20,8 @@ I love
 ![Photography](https://img.shields.io/badge/-Photography-4B0082?style=flat-square&logo=camera&logoColor=white)
 ![Travel](https://img.shields.io/badge/-Travel-008000?style=flat-square&logo=airplane&logoColor=white)
 
-I'm interested in technical-related fields, such as computer science (CS), artificial intelligence (AI), data analysis (DA), e-business (eB), games and new energy vehicles (NEV) etc.
+I'm interested in technical-related fields, such as computer science (CS), artificial intelligence (AI), data analysis (DA), e-business (eB), Games and new energy vehicles (NEV) etc.
 
-I plan to start my career path as a product manager (PM).
 
 ### Technology stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,7 +33,7 @@ I plan to start my career path as a product manager (PM).
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 
-Including the corresponding frameworks and IDEs, such as VS Code, Unity, Bootstrap, etc.
+Including the corresponding frameworks and IDEs, such as PyCharm, IDEA, VS Code, Unity etc.
 
 ### Contact me
 ChessonZhai@foxmail.com (will reply in 24 hours)
