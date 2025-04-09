@@ -1,4 +1,5 @@
 # Hello everyone! 👋
+
 Welcome to my GitHub! This is Chesson Zhai, and you can call me Chesson. 
 
 ### For me 关于我
@@ -44,6 +45,9 @@ Including the corresponding frameworks and IDEs, such as PyCharm, IDEA, VS Code,
 ChessonZhai@foxmail.com (will reply in 24 hours)
 
 ### Follow my social media 关注我:
+
+杂食老翟：杂食意思是什锦区，指希望自己能在多个领域都涉猎和有所成就。
+
 share daily life
 [![Bilibili](https://img.shields.io/badge/Bilibili-杂食老翟-00A1D6?style=flat-square&logo=bilibili)](https://space.bilibili.com/474510573)
 [![Douyin](https://img.shields.io/badge/Douyin-杂食老翟-FF4500?style=flat-square&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAA8SxbTCoahDB29M1MRL-1rOiPUAS96E49CSg3pHRUxd8)
