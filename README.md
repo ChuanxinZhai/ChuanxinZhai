@@ -21,7 +21,7 @@ I love
 ![Travel](https://img.shields.io/badge/-Travel-008000?style=flat-square&logo=airplane&logoColor=white)
 爱好：篮球/羽毛球/音乐/游戏/旅游
 
-I'm interested in technical-related fields, such as computer science (CS), artificial intelligence (AI), data analysis (DA), e-business (eB), Games and Automobile etc. 
+I'm interested in technical-related fields, such as Computer Science, Artificial Intelligence, Data Analysis, e-Business, Games and Automobile etc. 
 计算机科学/人工智能/数据分析/电子商务/游戏/汽车 等领域
 
 
