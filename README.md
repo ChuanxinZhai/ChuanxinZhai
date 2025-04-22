@@ -7,7 +7,7 @@ Now, fresh graduate, looking for a job as a product manager or data analyst.
 
 (2023.9-2025.1) MSc: The University of Warwick (UoW), Warwick Manufacturing Group (WMG), Computer Science and Technology (e-Commerce and Digital Analytics). 
 
-硕士：英国华威大学 华威制造集团（WMG）计算机科学与技术（电子商务数据分析方向~！）
+硕士：英国华威大学 华威制造集团（WMG）计算机科学与技术（电子商务数据分析方向）
 
 (2019.8-2023.7) BSc: Xi'an Jiaotong Liverpool University (XJTLU), School of Advanced Technology (SAT), Information and Computing Science (ICS).
 
