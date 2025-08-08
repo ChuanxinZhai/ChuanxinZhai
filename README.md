@@ -3,7 +3,7 @@
 Welcome to my GitHub! This is Chesson Zhai, and you can call me Chesson. 
 
 ### For me 关于我
-Now, fresh graduate, looking for a job as a product/project manager. 
+Now, working at Tencent as a product manager. 现任：腾讯产品经理
 
 (2023.9-2025.1) MSc: The University of Warwick (UoW), Warwick Manufacturing Group (WMG), Computer Science and Technology (e-Commerce and Digital Analytics). 
 
