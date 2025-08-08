@@ -3,13 +3,13 @@
 Welcome to my GitHub! This is Chesson Zhai, and you can call me Chesson. 
 
 ### For me 关于我
-Now, working at Tencent as a product manager. 现任：腾讯产品经理
+(2025.7 - Now), working at Tencent as a product manager (PM). 现任：腾讯产品经理
 
-(2023.9-2025.1) MSc: The University of Warwick (UoW), Warwick Manufacturing Group (WMG), Computer Science and Technology (e-Commerce and Digital Analytics). 
+(2023.9 - 2025.1) MSc: The University of Warwick (UoW), Warwick Manufacturing Group (WMG), Computer Science and Technology (e-Commerce and Digital Analytics). 
 
 硕士：英国华威大学 华威制造集团（WMG）计算机科学与技术（电子商务数据分析方向）
 
-(2019.8-2023.7) BSc: Xi'an Jiaotong Liverpool University (XJTLU), School of Advanced Technology (SAT), Information and Computing Science (ICS).
+(2019.8 - 2023.7) BSc: Xi'an Jiaotong Liverpool University (XJTLU), School of Advanced Technology (SAT), Information and Computing Science (ICS).
 
 本科：西交利物浦大学 智能工程学院 信息与计算科学 (计算机软件类)
 
