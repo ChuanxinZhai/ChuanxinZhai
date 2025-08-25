@@ -36,7 +36,7 @@ Computer programming 计算机编程：
 
 Including the corresponding frameworks and IDEs, such as PyCharm, IDEA, VS Code, Unity etc.
 
-原型设计（Axure/Visio）；数据分析（Tableau/SPSS）；前端（HTML/CSS/js）；敏捷项目管理与开发；数据库；建模；竞品分析，用户调研，PRD需求文档书写；领域知识（计算机/电商/数据）。
+原型设计（Axure/Visio/Figma）；数据分析（Tableau/SPSS）；前端（HTML/CSS/js）；敏捷项目管理与开发；数据库；建模；竞品分析，用户调研，PRD需求文档书写；领域知识（计算机/电商/数据）。
 
 ### Contact me 联系我：
 ChessonZhai@foxmail.com (will reply in 24 hours)
