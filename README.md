@@ -1,6 +1,6 @@
 # Hello everyone! 👋
 
-Welcome to my GitHub! This is Chesson. 
+Welcome to my profile! This is Chesson. 
 
 ### For me 关于我
 (2025.6 - Now), working at Tencent Cloud as a technical product manager (PM). 现任：腾讯云技术产品经理
