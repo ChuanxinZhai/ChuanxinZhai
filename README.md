@@ -3,15 +3,15 @@
 Welcome to my GitHub! This is Chesson Zhai, and you can call me Chesson. 
 
 ### For me 关于我
-(2025.7 - Now), working at Tencent Cloud as a technical product manager (PM). 现任：腾讯云技术产品经理
+(2025.6 - Now), working at Tencent Cloud as a technical product manager (PM). 现任：腾讯云技术产品经理
 
-(2023.9 - 2025.1) MSc: The University of Warwick (UoW), Computer Science and Technology (e-Commerce and Digital Analytics). 
+(2023.9 - 2025.1) MSc: The University of Warwick (UoW), Computer Science and Technology. 
 
-硕士：英国华威大学 计算机科学与技术（电子商务数据分析方向）
+硕士：英国华威大学 计算机科学与技术
 
 (2019.8 - 2023.7) BSc: Xi'an Jiaotong Liverpool University (XJTLU), Information and Computing Science (ICS).
 
-本科：西交利物浦大学 信息与计算科学 (计算机软件类)
+本科：西交利物浦大学 信息与计算科学
 
 I love
 ![Music](https://img.shields.io/badge/-Music-FFD700?style=flat-square&logo=music&logoColor=white)
@@ -34,12 +34,10 @@ Computer programming 计算机编程：
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-Including the corresponding frameworks and IDEs, such as PyCharm, IDEA, VS Code, Unity etc.
-
-原型设计（Axure/Visio/Figma）；数据分析（Tableau/SPSS）；前端（HTML/CSS/js）；敏捷项目管理与开发；数据库；建模；竞品分析，用户调研，PRD需求文档书写；领域知识（计算机/电商/数据）。
+原型设计；数据分析；前端；项目管理；竞品分析；需求文档；
 
 ### Contact me 联系我：
-ChessonZhai@foxmail.com (will reply in 24 hours)
+ChessonZhai@foxmail.com （Please feel free to contact me, will reply soon）
 
 ### Follow my social media 关注我:
 
